@@ -1,0 +1,6 @@
+product,expected_result
+iPhone,success
+MacBook,success
+Samsung,success
+HP,success
+NonExistingProduct123456,failure

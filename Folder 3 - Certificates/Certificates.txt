@@ -1,0 +1,7 @@
+1.Python for Automation(Madecraft) : https://coursera.org/share/e1abaab40b558d8506097b487ec5ce56
+
+2.Introduction to Selenium(Karlis Zars) : https://coursera.org/share/98ace2433b664464c1d57dd6ec419718
+
+3.Selenium WebDriver with Python(Whizlabs) : https://coursera.org/share/25a23d684a171daf744258107029d587
+
+4.Test Automation with Playwright (Python) & Robot Framework(Coursera) : https://coursera.org/share/b6fcd18c5efbf8c92cd69d201461dbee

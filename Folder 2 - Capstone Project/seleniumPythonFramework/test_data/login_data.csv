@@ -1,0 +1,3 @@
+email,password,expected_result
+invalid@example.com,wrongpassword,failure
+test@example.com,invalidpassword,failure
